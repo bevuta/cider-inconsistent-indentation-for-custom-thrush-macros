@@ -1,0 +1,6 @@
+.cpcache/
+.nrepl-port
+node_modules/
+.shadow-cljs/
+out/
+.direnv/
